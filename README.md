@@ -4,10 +4,6 @@ This repo houses a minimalist HTML page for showcasing motivational memes. With 
 
 Welcome to the Empowerment Page repository! This repository houses a simple HTML page designed to inspire and motivate. The page utilizes a clean and visually appealing layout, featuring a bold title, an empowering image, and a positive message.
 
-## Preview
-![Empowerment Image Preview](empower.jpg)
-![Project Preview](https://doll897.github.io/Minimalist-Motivational-Meme-Page/)
-
 ## Getting Started
 1. **Clone this repository:**
    ```bash
