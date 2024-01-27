@@ -6,7 +6,7 @@ Welcome to the Empowerment Page repository! This repository houses a simple HTML
 
 ## Preview
 ![Empowerment Image Preview](empower.jpg)
-![Project Preview]()
+![Project Preview](https://doll897.github.io/Minimalist-Motivational-Meme-Page/)
 
 ## Getting Started
 1. **Clone this repository:**
