@@ -7,7 +7,7 @@ Welcome to the Empowerment Page repository! This repository houses a simple HTML
 ## Getting Started
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/doll897/empowerment-page.git
+   git clone https://github.com/doll897/Minimalist-Motivational-Meme-Page.git
     Replace the default image:
         Replace the image URL in the <img> tag with your preferred image. You can use the provided empower.jpg or replace it with your own image.
 
@@ -17,7 +17,7 @@ Welcome to the Empowerment Page repository! This repository houses a simple HTML
     Open index.html in a web browser:
         View your personalized empowerment page by opening the index.html file in a web browser.
 
-###Styling
+## Styling
 
     Title: Displayed in uppercase, featuring a bold red color (#e74c3c) for added emphasis.
     Background: A dark shade (#2c3e50) creates a focused and calming environment.
